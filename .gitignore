@@ -53,3 +53,8 @@ dkms.conf
 
 # OS specific
 *.plist
+
+# Executables
+calculate_ws
+count_ops
+gen_trace
